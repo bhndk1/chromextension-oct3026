@@ -1,0 +1,142 @@
+{
+  "defaultName": "Sophie",
+  "petNameChance": 0.35,
+  "petNames": [
+    "my love",
+    "sweetheart",
+    "sweetie",
+    "gorgeous"
+  ],
+  "features": {
+    "showStudyBuddy": true,
+    "studyMinutes": 25,
+    "showDaysTogether": true,
+    "anniversaryDate": "2026-10-30",
+    "showScratchpad": true,
+    "weather": "none"
+  },
+  "countdowns": [
+    {
+      "label": "Christmas",
+      "date": "2026-12-25"
+    }
+  ],
+  "greetings": {
+    "morning": [
+      "Good morning.",
+      "Wakey wakey.",
+      "Have a good day."
+    ],
+    "afternoon": [
+      "Whatcha up to?",
+      "Thinking about you.",
+      "I miss you."
+    ],
+    "evening": [
+      "Almost time for bed.",
+      "Getting ready to sleep?",
+      "How was your day?"
+    ],
+    "lateNight": [
+      "Still up?",
+      "Don't stay up too late.",
+      "Go to sleepppp."
+    ]
+  },
+  "messages": [
+    {
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-26",
+      "text": "Merry Christmas \u2014.",
+      "heart": true
+    }
+  ],
+  "quotes": [
+    "I love you!",
+    {
+      "text": "Dancing in the moonlight.",
+      "author": "Whoever wrote that song. Toploader I think"
+    },
+    {
+      "text": "You are my today and all of my tomorrows.",
+      "author": "Leo Christopher"
+    },
+    {
+      "text": "You and I are gonna live forever.",
+      "author": "Oasis"
+    },
+    "Go drink some water :)",
+    "I miss you sooo much :(",
+    "Can we call :((",
+    "Text me :((",
+    "Bleh",
+    "Lemme know if you want me to put some other messages here :)"
+  ],
+  "scenes": [
+    {
+      "id": "butterflies_blue",
+      "type": "butterflies",
+      "theme": "blue",
+      "enabled": true,
+      "weight": 1,
+      "count": 22,
+      "speed": 0.54,
+      "hint": "click to scatter"
+    },
+    {
+      "id": "butterflies_pink",
+      "type": "butterflies",
+      "theme": "pink",
+      "enabled": true,
+      "weight": 1,
+      "count": 22,
+      "speed": 0.54,
+      "hint": "click to scatter"
+    },
+    {
+      "id": "butterflies_monarch",
+      "type": "butterflies",
+      "theme": "monarch",
+      "enabled": true,
+      "weight": 1,
+      "count": 20,
+      "speed": 0.54,
+      "hint": "click to scatter"
+    },
+    {
+      "id": "kitten_calico",
+      "type": "kitten",
+      "enabled": true,
+      "weight": 1.5,
+      "size": 176,
+      "hint": "click to say hi"
+    },
+    {
+      "id": "koi_pond",
+      "type": "koi",
+      "enabled": true,
+      "weight": 1,
+      "count": 6,
+      "speed": 0.64,
+      "hint": "click to drop food"
+    },
+    {
+      "id": "manta_ray",
+      "type": "manta",
+      "enabled": true,
+      "weight": 0.85,
+      "size": 175,
+      "speed": 0.44,
+      "hint": "click & drag to guide"
+    },
+    {
+      "id": "jellyfish",
+      "type": "jellyfish",
+      "enabled": true,
+      "weight": 1,
+      "count": 11,
+      "speed": 0.44,
+      "hint": "click to scatter"
+    }
+  ]
+}
