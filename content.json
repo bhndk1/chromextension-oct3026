@@ -138,5 +138,13 @@
       "speed": 0.44,
       "hint": "click to scatter"
     }
+    {
+      "id": "maine_coon",
+      "type": "maine_coon",
+      "enabled": true,
+      "weight": 1.5,
+      "size": 195,
+      "hint": "click to say hi"
+    }
   ]
 }
