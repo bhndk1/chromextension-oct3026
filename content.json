@@ -133,9 +133,8 @@
       "id": "christmas_tree",
       "type": "christmas_tree",
       "enabled": true,
-      "weight": 2.0,
-      "size": 250,
-      "hint": "merry christmas..."
+      "weight": 99.0,
+      "hint": "merry christmas"
     },
     {
       "id": "jellyfish",
