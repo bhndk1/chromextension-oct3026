@@ -133,7 +133,7 @@
       "id": "christmas_tree",
       "type": "christmas_tree",
       "enabled": true,
-      "weight": 99.0,
+      "weight": 1.5,
       "hint": "merry christmas"
     },
     {
