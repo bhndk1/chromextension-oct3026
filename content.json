@@ -107,7 +107,7 @@
       "id": "kitten_calico",
       "type": "kitten",
       "enabled": true,
-      "weight": 1.5,
+      "weight": 1,
       "size": 176,
       "hint": "click to say hi"
     },
@@ -124,7 +124,7 @@
       "id": "manta_ray",
       "type": "manta",
       "enabled": true,
-      "weight": 0.85,
+      "weight": 1,
       "size": 175,
       "speed": 0.44,
       "hint": "click & drag to guide"
@@ -133,7 +133,7 @@
       "id": "christmas_tree",
       "type": "christmas_tree",
       "enabled": true,
-      "weight": 1.5,
+      "weight": 1,
       "hint": "merry christmas"
     },
     {
