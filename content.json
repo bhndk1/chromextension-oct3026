@@ -58,19 +58,26 @@
       "author": "Whoever wrote that song. Toploader I think"
     },
     {
-      "text": "You are my today and all of my tomorrows.",
-      "author": "Leo Christopher"
+      "text": "My love is alive..way down in my heart..although we are miles apart.",
+      "author": "Ain't No Mountain High Enough - Marvin Gaye and Tammi Terrell"
     },
     {
       "text": "You and I are gonna live forever.",
       "author": "Oasis"
     },
+    {
+      "text": "Everything is nothing if I can't have you",
+      "author": "If I Can't Have You - Shawn Mendes"
+    },
     "Go drink some water :)",
     "I miss you sooo much :(",
-    "Can we call :((",
+    "Can we call :(",
     "Text me :((",
     "Bleh",
-    "Lemme know if you want me to put some other messages here :)"
+    "Lemme know if you want me to put some other messages here :)",
+    "Hi pretty :)",
+    "Hi gorgeous :)",
+    "Hi bunny :)"
   ],
   "scenes": [
     {
@@ -134,6 +141,7 @@
       "type": "christmas_tree",
       "enabled": true,
       "weight": 1,
+      "size": 250,
       "hint": "merry christmas"
     },
     {
