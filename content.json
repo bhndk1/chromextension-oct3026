@@ -5,7 +5,8 @@
     "my love",
     "sweetheart",
     "sweetie",
-    "gorgeous"
+    "gorgeous",
+    "buni"
   ],
   "features": {
     "showStudyBuddy": true,
@@ -30,12 +31,12 @@
     "afternoon": [
       "Whatcha up to?",
       "Thinking about you.",
-      "I miss you."
+      "Missing you"
     ],
     "evening": [
       "Almost time for bed.",
       "Getting ready to sleep?",
-      "How was your day?"
+      "Bedtime?"
     ],
     "lateNight": [
       "Still up?",
@@ -134,7 +135,7 @@
       "weight": 1,
       "size": 175,
       "speed": 0.44,
-      "hint": "click & drag to guide"
+      "hint": "click and drag to guide"
     },
     {
       "id": "christmas_tree",
@@ -142,7 +143,7 @@
       "enabled": true,
       "weight": 1,
       "size": 250,
-      "hint": "merry christmas"
+      "hint": "merry christmas <3"
     },
     {
       "id": "jellyfish",
